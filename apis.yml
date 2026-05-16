@@ -1,17 +1,34 @@
 aid: mckinsey
-url: https://raw.githubusercontent.com/api-evangelist/mckinsey/refs/heads/main/apis.yml
 name: McKinsey & Company
+description: >-
+  McKinsey & Company is a global management consulting firm advising leading
+  businesses, governments, non-profit organizations, and institutions on
+  strategy, operations, technology, and transformation. The firm operates in
+  more than 65 countries and runs QuantumBlack, its AI and analytics arm.
+  No public developer portal or external APIs have been identified for
+  McKinsey & Company; its proprietary platforms (e.g., platform.mckinsey.com)
+  are gated to client engagements and authenticated users only.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Consulting
   - Strategy
   - Professional Services
-description: 'The world''s most prestigious management consulting firm advising leading businesses, governments, and institutions on strategy, operations, and transformation. Operates in over 65 countries with a reputation for shaping global business leadership.'
+  - Fortune 500
+  - Analytics
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/mckinsey/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.mckinsey.com/
+  - type: About
+    url: https://www.mckinsey.com/about-us/overview
+  - type: GitHubOrganization
+    url: https://github.com/quantumblacklabs
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

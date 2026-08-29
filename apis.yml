@@ -9,6 +9,17 @@ description: >-
   McKinsey & Company; its proprietary platforms (e.g., platform.mckinsey.com)
   are gated to client engagements and authenticated users only.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
